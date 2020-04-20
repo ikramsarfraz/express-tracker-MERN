@@ -10,7 +10,7 @@ client/node_modules
 /coverage
 
 # production
-/build
+client/build
 
 # misc
 .DS_Store
@@ -27,3 +27,6 @@ yarn-error.log*
 # package
 package-lock.json
 client/package-lock.json
+
+#config
+/config.env
